@@ -1,0 +1,24 @@
+header {
+    height: 60px;
+    background-color: var(--color-primary);
+    
+    display: flex;
+    align-items: center;
+}
+
+.dsmovie-nav-content {
+    display:flex;
+    justify-content: space-between;
+    color: #fff;
+}
+
+.dsmovie-contact-container{
+    display: flex;
+    align-items: center;
+
+}
+
+.dsmovie-contact-link {
+    margin: 0 0 0 10px;
+    font-size: 12px;
+}
